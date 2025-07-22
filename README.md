@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Suraj Khopkar
 
-<!--
-**surrajkhopkar/surrajkhopkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Automation Test Lead** | 🧪 **QA Expert** | 🌐 **Healthcare Domain Specialist**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **healthcare QA automation** with 14+ years of experience.
+- 💡 Passionate about **Test Automation**, **DevOps Integration**, and **Quality Strategy**.
+- 🎯 Preparing for **Test Automation Architect** and **QA Leadership** roles.
+- 🧠 Currently learning: `Python`, `DevOps`, `Performance Testing`, `AI in QA`.
+
+---
+
+### 🛠️ Tech Stack
+
+```yaml
+Languages:        Python, Java, JavaScript
+Automation Tools: Selenium, Cypress, Playwright
+CI/CD:            Jenkins, GitHub Actions, Azure DevOps
+Cloud & DevOps:   Docker, Kubernetes, AWS, Postman, Newman
+Test Strategy:    BDD, TDD, Shift Left, Performance, Security
+Project Mgmt:     Jira, Azure Boards, TestRail
