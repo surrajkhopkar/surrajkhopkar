@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suraj Khopkar
+# 👋 Hi, I'm Surraj Shrikaant Khopkar
 
 💼 **Automation Test Lead** | 🧪 **QA Expert** | 🌐 **Healthcare Domain Specialist**
 
